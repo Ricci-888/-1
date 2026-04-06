@@ -1,0 +1,5 @@
+{
+  "name": "NEV Digital Concierge",
+  "description": "A premium digital concierge for NEV owners, providing vehicle service, registration, and diagnostic solutions.",
+  "requestFramePermissions": ["camera"]
+}
